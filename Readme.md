@@ -10,8 +10,8 @@ Implementasi scrum pada workshop riset informatika
    - [Scrum Master](scrum-roles/scrum-master.md)
    - Developer Team
 3. **Preparation**
-   - User Story
    - Product Backlog
+   - [User Story](preparation/user-story.md)
    - Boilerplate Code
 4. **Scrum Flow**
    - Sprint Planning
