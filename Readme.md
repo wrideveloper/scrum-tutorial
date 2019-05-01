@@ -7,7 +7,7 @@ Implementasi scrum pada workshop riset informatika
    - [Scrum Values](basic/scrum-values.md)
 2. **Scrum Roles** 
    - Product Owner
-   - Scrum Master
+   - [Scrum Master](scrum-roles/scrum-master.md)
    - Developer Team
 3. **Preparation**
    - User Story
