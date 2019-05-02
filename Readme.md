@@ -14,7 +14,8 @@ Implementasi scrum pada workshop riset informatika
    - [User Story](preparation/user-story.md)
    - Boilerplate Code
 4. **Scrum Flow**
+   - [Introduction](https://docs.microsoft.com/en-us/azure/devops/learn/_img/agile-scrum-lifecycle-diagram.png)
    - [Sprint Planning](scrum-flow/sprint-planning.md)
    - [Sprint Execution](scrum-flow/sprint-execution.md)
    - Sprint Review
-   - Sprint Retrospective
+   - [Sprint Retrospective](https://www.atlassian.com/team-playbook/plays/retrospective)

@@ -6,7 +6,8 @@ Scrum memiliki _value_ yang menjadi patokan bagaimana suatu tim dalam scrum berf
 
 Arti _commitment_ disini bukan berarti harus menyelesaikan semua _task_ yang diberikan, melainkan bagaimana kita memberikan waktu, pikiran, dan tenaga untuk berusaha menyelesaikan task tersebut.
 
-Contoh : 
+Contoh :
+
 1. Komitmen untuk berkolaborasi
 2. Komitmen untuk belajar
 3. Komitmen untuk mencari solusi dari permasalahan
@@ -17,13 +18,14 @@ Dan komitmen tersebut kita lakukan setiap hari
 
 ## 2. Focus
 
-Dalam scrum, kita hanya perlu fokus terhadap fitur yang saat ini paling dibutuhkan oleh user, kita tidak perlu memikirkan kemungkinan - kemungkinan yang terjadi di masa depan, karena kebutuhan di masa depan tidak pasti, jadi apa yang kita kerjakan sekarang adalah yang jelas - jelas dibutuhkan oleh user saat ini, sehingga kita bisa fokus dan dapat menyelesaikan aplikasi lebih cepat dan lebih tepat 
+Dalam scrum, kita hanya perlu fokus terhadap fitur yang saat ini paling dibutuhkan oleh user, kita tidak perlu memikirkan kemungkinan - kemungkinan yang terjadi di masa depan, karena kebutuhan di masa depan tidak pasti, jadi apa yang kita kerjakan sekarang adalah yang jelas - jelas dibutuhkan oleh user saat ini, sehingga kita bisa fokus dan dapat menyelesaikan aplikasi lebih cepat dan lebih tepat
 
 ## 3. Openness
 
 Kunci untuk menguasai scrum adalah keterbukaan, karena dapat meningkatkan transparansi dan menghindari miskomunikasi di dalam tim.
 
 Contoh :
+
 1. Terbuka terhadap apa yang saat ini dikerjakan
 2. Terbuka terhadap permasalahan yang sedang dialami
 3. Terbuka terhadap skill yang dimiliki
@@ -36,4 +38,4 @@ Intinya, dalam scrum kita tidak boleh menyalahkan orang lain (blame), lebih baik
 
 ## 5. Courage
 
-Courage disini artinya kita perlu berani untuk menerapkan point - point yang sudah dijelaskan diatas
+Courage disini artinya kita perlu berani untuk berubah dab menerapkan _scrum values_ yang sudah dijelaskan diatas
