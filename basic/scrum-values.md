@@ -32,10 +32,23 @@ Contoh :
 
 ## 4. Respect
 
-Setelah anggota tim saling terbuka satu sama lain, maka kita perlu saling menghargai, menghargai permasalahan orang lain, menghargai pendapat orang lain, menghargai solusi bersama, dan sebagainya.
+Setelah anggota tim saling terbuka satu sama lain, maka kita perlu saling menghargai
 
-Intinya, dalam scrum kita tidak boleh menyalahkan orang lain (blame), lebih baik kita membantu mencari solusi bersama yang dapat dilakukan untuk memecahkan permasalahan tersebut.
+Contoh :
+
+1. Menghargai permasalahan orang lain
+2. Menghargai pendapat orang lain
+3. Menghargai solusi bersama
+
+Intinya, dalam scrum kita tidak boleh menyalahkan orang lain, lebih baik kita membantu mencari solusi bersama yang dapat dilakukan untuk memecahkan permasalahan tersebut.
 
 ## 5. Courage
 
-Courage disini artinya kita perlu berani untuk berubah dab menerapkan _scrum values_ yang sudah dijelaskan diatas
+Courage artinya kita perlu berani untuk berubah dab menerapkan _scrum values_ yang sudah dijelaskan diatas
+
+Contoh :
+
+1. Berani untuk memulai sesuatu yang benar
+2. Berani untuk mengambil keputusan
+3. Berani untuk melakukan kesalahan
+4. Berani untuk belajar dari kegagalan

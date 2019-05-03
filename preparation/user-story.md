@@ -2,25 +2,21 @@
 
 ## Penjelasan User Story
 
-User story merupakan penjelasan dari kebutuhan user
+User story merupakan penjelasan singkat mengenai kebutuhan user
 
 ## Format User Story
 
 User story memiliki format sebagai berikut :
 
-> Sebagai _( jenis user )_ saya ingin _( kebutuhan )_ sehingga _( tujuan )_
+**Sebagai** _( jenis user )_ **saya ingin** _( kebutuhan )_ **sehingga** _( tujuan )_
+
+## Contoh User Story
 
 Contoh user story pada aplikasi gojek :
 
-- Sebagai penumpang, saya ingin melihat foto dari pengemudi, sehingga saya dapat mengenalinya apabila sudah datang
+- Sebagai **penumpang**, saya ingin **melihat foto pengemudi**, sehingga saya dapat **mengenalinya apabila sudah datang**
 
-- Sebagai pengemudi, saya ingin diberi tahu rute terpendek untuk sampai ke tujuan, sehingga saya dapat sampai ke tujuan lebih cepat
-
-## Epic
-
-Terkadang user story yang dihasilkan dari interview user terlalu besar, sehingga untuk mengerjakannya perlu dipecah menjadi beberapa user story
-
-User story yang terlalu besar tersebut disebut epic, dimana sebuah epic dapat berisi kumpulan user story
+- Sebagai **pengemudi**, saya ingin **diberi tahu rute terpendek untuk sampai ke tujuan**, sehingga saya **dapat sampai ke tujuan lebih cepat**
 
 ## Manfaat User Story
 

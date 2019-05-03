@@ -14,8 +14,10 @@ Ada beberapa hal yang dilakukan saat sprint planning, yaitu :
 
 1. Memilih user story yang ingin dikerjakan pada saat sprint, dan memindahkannya dari _product backlog_ ke _sprint backlog_
 
-2. Mendetailkan fitur yang ada pada user story ke dalam card masing - masing
+2. Menentukan fitur - fitur apa saja yang akan dikerjakan pada user story yang dipilih
 
-3. Menentukan story point pada masing - masing fitur
+3. Mendetailkan fitur yang ada pada user story ke dalam card masing - masing
 
-4. Mengambil fitur yang ingin dikerjakan developer
+4. Menentukan story point pada masing - masing fitur
+
+5. Mengambil fitur yang ingin dikerjakan developer
