@@ -8,23 +8,35 @@ Sprint execution adalah tahap dimana developer mengerjakan task yang sudah diamb
 
 Untuk menjaga transparansi dan komunikasi pada tim, pada saat sprint execution tim akan melakukan daily scrum
 
-Daily scrum merupakan meeting singkat dimana masing - masing developer pada suatu tim berkumpul dan menjawab pertanyaan berikut :
+Daily scrum merupakan meeting singkat dimana masing - masing anggota pada suatu tim berkumpul dan secara bergantian menjawab pertanyaan berikut :
 
-1. Apa yang kemarin dikerjakan
-2. Apa yang akan dikerjakan hari ini
-3. Kendala apa yang menghambat
+### 1. Apa yang kemarin dikerjakan
 
-Sehingga anggota dalam tim tersebut dapat saling mencari solusi apabila ada kendala yang dihadapi anggota lain
+Pertanyaan ini digunakan untuk mengkonfirmasi apa yang telah dikerjakan, sehingga tim tau apakah task yang dikerjakan sudah selesai atau belum
+
+### 2. Kendala apa yang menghambat
+
+Pertanyaan ini digunakan untuk mengetahui kendala apa yang menghambat kinerja tim saat menyelesaikan suatu task
+
+### 3. Apa yang akan dikerjakan hari ini
+
+Pertanyaan ini digunakan untuk mengetahui apa yang akan dilakukan setelah menyelesaikan suatu task, atau untuk menjelaskan apa yang akan dilakukan untuk menyelesaikan kendala yang kemarin dihadapi
 
 ## Tujuan Daily Scrum
 
 Ada beberapa tujuan dilakukannya daily scrum, yaitu :
 
-1. Mensinkronisasi pekerjaan tim
-2. Mengetahui performa tim
-3. Mengetahui dan memecahkan permasalahan yang menghambat proses pengembangan
-4. Memeriksa proses pengerjaan proyek
-5. Meningkatkan kolaborasi dan menghindari miskomunikasi
+### 1. Membantu meningkatkan komitmen tim
+
+Apabila kita memberitahu tim bahwa kita akan mengerjakan suatu task hari ini, maka tim tersebut akan berekspetasi bahwa keesokan harinya task tersebut akan selesai, maka dengan sendirinya akan timbul komitmen dari diri kita untuk menyelesaikan task tersebut keesokan harinya
+
+### 2. Mengetahui performa tim
+
+Untuk mengetahui performa tim secara akurat, kita tidak bisa hanya melihat faktor kerumitan task dan skill yang dimiliki oleh tim, tapi juga harus mempertimbangkan kendala teknis maupun non teknis yang dialami oleh tim
+
+### 3. Mengetahui dan memecahkan permasalahan yang menghambat proses pengembangan
+
+Dengan memberitahu kendala yang sedang dihadapi, maka tim dapat bersama - sama mencari solusi yang paling efektif agar proses pengembangan software tetap berjalan
 
 ## Sumber
 
